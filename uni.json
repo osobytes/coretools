@@ -9,7 +9,7 @@
             folder: "Osobytes",
             default: true,
             includes: [
-                "core/Requires.cs",
+                "core/Require.cs",
                 "core/Singleton.cs",
                 "core/MonoBehaviourSingleton.cs"
             ]
