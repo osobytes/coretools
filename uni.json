@@ -1,14 +1,14 @@
 {
-    name: "osobytes-core",
-    descripton: "A set of useful tools for development",
-    owner: "osobytes",
-    tools: [
+    "name": "osobytes-core",
+    "descripton": "A set of useful tools for development",
+    "owner": "osobytes",
+    "tools": [
         {
-            name: "all",
-            description: "Downloads all the tools from this repository.",
-            folder: "Osobytes",
-            default: true,
-            includes: [
+            "name": "all",
+            "description": "Downloads all the tools from this repository.",
+            "folder": "Osobytes",
+            "default": true,
+            "includes": [
                 "core/Require.cs",
                 "core/Singleton.cs",
                 "core/MonoBehaviourSingleton.cs"
